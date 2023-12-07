@@ -1,0 +1,6 @@
+#ifndef MENSAGEM_H_INCLUDED
+#define MENSAGEM_H_INCLUDED
+
+char card_choice(char matriz[][], int i[], int j[]);
+
+#endif // MENSAGEM_H_INCLUDED

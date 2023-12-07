@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1701912716 source:c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"layout.h"
+	"CardChoice.h"
+	"mensagem.h"
+
+1701900675 c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\mensagens.h
+
+1701911839 source:c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\layout.c
+	"layout.h"
+	"CardChoice.h"
+
+1701911839 c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\layout.h
+
+1701911291 source:c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\mensagem.c
+	"mensagem.h"
+
+1701907045 c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\mensagem.h
+
+1701907469 c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\cardchoice.h
+
+1701911719 source:c:\users\iuryr\onedrive\햞ea de trabalho\projeto\memory game\cardchoice.c
+	"CardChoice.h"
+	"layout.h"
+
